@@ -2,5 +2,5 @@
   "category": "utilities",
   "short_description": "Record lap splits with one button and compare each repetition against your target.",
   "description": "Record lap splits with one button and compare each repetition against your target. Turn the wheel before starting to set a target split in five-second increments. Click to start the first lap and click at each subsequent line crossing. The wheel reviews the previous 20 splits. Start pauses or resumes between repetitions. Hold Start to begin a new session.",
-  "changelog": "First public version."
+  "changelog": "New screen transitions and high-contrast LED previews."
 }

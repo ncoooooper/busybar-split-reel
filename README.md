@@ -4,6 +4,20 @@ Record lap splits with one button and compare each repetition against your targe
 
 Give the runner one repeatable action at the finish line. Each click records the lap just completed and begins the next, leaving both the elapsed split and the difference from target available for review.
 
+## Screen transitions
+
+Capture a split, then browse the recorded repetition during the break.
+
+![Split Reel front display. Capture a split, then browse the recorded repetition during the break.](media/guide/screen-transitions.gif)
+
+<details>
+
+<summary>Watch the rear display</summary>
+
+![Split Reel rear display during the recorded controls](media/guide/screen-transitions-rear.gif)
+
+</details>
+
 ## Time a repetition
 
 1. Before the first lap, turn the wheel to set the target in five-second steps. The rear screen shows the target throughout a session.
@@ -34,6 +48,6 @@ Open BUSY Bar Emulator. From this repository, run:
 
 Press **Back** to exit.
 
-The GIFs are excerpts from the emulator recording. Each front-display pixel is shown at 9× its original width and height. The end frames pause for reading.
+The GIFs are excerpts from the emulator recording. Each LED occupies a 16 × 16 cell with a black border. The end frames pause for reading.
 
 [Full recording](media/controls.mp4) · [Rear display](screenshots/back-1.png) · [Firmware test](EMULATOR-QA.md) · [MIT license](LICENSE)
