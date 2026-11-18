@@ -11,7 +11,7 @@
   "frames": 54,
   "distinct_frames": 16,
   "exit": "App io.ncoooooper.splitreel exited: finished; heap peak 80.9 of 128 KiB",
-  "sha256": "31a91c2198d6ea69e52e50165886875e6704a1869fa0aac324b4b52715ab6adf",
+  "sha256": "80862248b02542236bf292f0ade10587a1b99bc3ebc17d0f5bbc45ee0892b109",
   "display_test": {
     "firmware": "1.3.1",
     "input": "On-device controls",
