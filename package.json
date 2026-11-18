@@ -2,7 +2,7 @@
   "name": "busybar-split-reel",
   "private": true,
   "version": "0.1.0",
-  "description": "Split Reel",
+  "description": "Record lap splits with one button and compare each repetition against your target.",
   "author": "ncoooooper",
   "type": "module",
   "scripts": {

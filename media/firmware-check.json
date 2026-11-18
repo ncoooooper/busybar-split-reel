@@ -1,0 +1,15 @@
+{
+  "id": "BB-025",
+  "source": "Interactive device controls and persistent local state on BUSY Bar firmware.",
+  "scenario": "Started a lap, recorded a split, reviewed it and paused the running timer.",
+  "keys": [
+    "ok",
+    "ok",
+    "up",
+    "start"
+  ],
+  "frames": 54,
+  "distinct_frames": 16,
+  "exit": "App io.ncoooooper.splitreel exited: finished; heap peak 80.9 of 128 KiB",
+  "sha256": "894701ddedf5876cbb7f93fcb74c760519aa604a6efe5ae1ca3150bad980b1a9"
+}

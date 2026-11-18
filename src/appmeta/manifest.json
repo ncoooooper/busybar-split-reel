@@ -4,6 +4,6 @@
   "name": "Split Reel",
   "version": "0.1.0",
   "api_version": "27.12.0",
-  "description": "Split Reel",
+  "description": "Record lap splits with one button and compare each repetition against your target.",
   "author": "ncoooooper"
 }
